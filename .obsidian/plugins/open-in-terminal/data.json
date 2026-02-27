@@ -1,0 +1,10 @@
+{
+  "terminalApp": {
+    "macos": "Terminal"
+  },
+  "enableClaude": false,
+  "enableCodex": true,
+  "enableCursor": false,
+  "enableGemini": false,
+  "enableOpencode": false
+}
