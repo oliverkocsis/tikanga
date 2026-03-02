@@ -27,6 +27,16 @@ Skills live under `skills/` (each skill is a folder containing a `SKILL.md`):
 - `user-experience-designer`
 - `user-researcher`
 
+## Documents (templates)
+
+The `documents/` folder contains reusable, generic SaaS templates you can fill in and adapt:
+
+- `documents/brand-positioning-framework.md`: positioning worksheet (category, audience, value prop, differentiation, proof).
+- `documents/go-to-market-gtm.md`: GTM plan template for a launch/expansion (messaging, enablement, timeline, success metrics).
+- `documents/ideal-customer-profile-ICP.md`: ICP definition template (attributes, pains, outcomes, buying behavior, disqualifiers).
+- `documents/market-research.md`: market research outline (TAM/SAM/SOM, trends, customer insights, competitive landscape, risks).
+- `documents/marketing-strategy.md`: marketing strategy doc (revenue alignment, segment focus, channels, budget, quarterly priorities).
+
 ## Quick start
 
 1. Clone the repo.
